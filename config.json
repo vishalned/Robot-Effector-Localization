@@ -1,0 +1,12 @@
+{
+    "model" : {
+        "input_size":           800,   
+        "labels":               ["Robot_Effector"]
+    },
+
+    "train": {
+        "train_image_folder":   "images/",
+        "train_annot_folder":   "images/Annotations/"
+    }
+
+}
